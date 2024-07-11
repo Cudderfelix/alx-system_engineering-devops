@@ -1,15 +1,15 @@
-#Concepts
+# Concepts
 
-For this project, the following concepts will be analyzed.
+# For this project, the following concepts will be analyzed.
 * <a href="https://www.geeksforgeeks.org/basics-computer-networking/">Network Basics</a>
 * <a href="https://medium.com/@kelvinagimogim/unraveling-the-mysteries-of-web-stack-debugging-tips-and-best-practices-7f7c24e60d2e">Web stack debugging</a>
 
-###Debugging MEME
+# Debugging MEME
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/271/B4eeypV.jpg">
 
-###Requirements
+# Requirements
 
-###General
+# General
 * Allowed editors: vi, vim, emacs
 * All your files will be interpreted on Ubuntu 20.04LTS
 * All your files should end with a new line
