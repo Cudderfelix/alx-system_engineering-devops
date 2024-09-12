@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-ps
+
+# Display the current shell PID
+echo "PID $$"
