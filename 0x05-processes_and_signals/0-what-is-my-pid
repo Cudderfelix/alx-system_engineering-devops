@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 # Display the current shell PID
-echo "Display the current PID" : $ps
+echo $$
