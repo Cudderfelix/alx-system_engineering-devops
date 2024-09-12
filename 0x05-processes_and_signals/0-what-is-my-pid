@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 # Display the current shell PID
-echo "PID $$"
+echo "Display own PID: $$"
